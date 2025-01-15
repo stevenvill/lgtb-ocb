@@ -5,7 +5,7 @@ import Link from "next/link";
 const navLinks = [
     {
         name: 'Link 1',
-        href: 'https://app.meteora.ag/pools/79raiHK7DDEGYAQ5dCgKd55GtoxaytvdDZKLEbCM3gRy',
+        href: 'https://app.meteora.ag/pools/HkkjwRtgtqepZd2uEZcmBoWK7JkxBVWCfXpq1GzLoToT',
         logo: '/meteora-logo.png',
         height: 49,
         width: 49,
