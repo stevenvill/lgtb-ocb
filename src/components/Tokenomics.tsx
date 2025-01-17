@@ -71,7 +71,7 @@ export default function Tokenomics() {
                         className="rounded-full"
                     />
                     <Link
-                        href='stake and earn'
+                        href='https://m3m3.meteora.ag/farms/HkkjwRtgtqepZd2uEZcmBoWK7JkxBVWCfXpq1GzLoToT'
                         className="flex items-center gap-4 bg-black/20 hover:bg-black/30 rounded-xl p-4 w-full
                   transition-all duration-300 border border-white/10 hover:border-white/20"
                         target="_blank"
