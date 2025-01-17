@@ -13,7 +13,7 @@ const navLinks = [
     },
     {
         name: 'Link 2',
-        href: '/https://t.me/+kQeiojHoHmhhYTc0',
+        href: 'https://t.me/+kQeiojHoHmhhYTc0',
         logo: '/telegram-logo.png',
         height: 55,
         width: 55,
