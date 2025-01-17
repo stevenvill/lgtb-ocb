@@ -1,3 +1,4 @@
+import ContestWinners from "@/components/ContestWinners";
 import MainLinks from "@/components/MainLinks";
 import MemeCarousel from "@/components/MemeCarousel";
 import Tokenomics from "@/components/Tokenomics";
@@ -27,6 +28,7 @@ export default function Home() {
 
       <Tokenomics />
       <MainLinks />
+      <ContestWinners />
       <MemeCarousel />
     </main>
   );

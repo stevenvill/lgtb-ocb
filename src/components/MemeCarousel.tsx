@@ -20,7 +20,7 @@ export default function MemeCarousel(): JSX.Element {
     }, [emblaApi])
 
     return (
-        <div className="bg-gradient-to-r from-[#3E7B27] via-[#85A947] to-[#3E7B27] p-4 md:p-8 rounded-3xl max-w-6xl mx-auto mt-16">
+        <div className="bg-gradient-to-r from-[#3E7B27] via-[#85A947] to-[#3E7B27] p-4 md:p-8 rounded-3xl max-w-6xl mx-auto mt-8">
             <div className="bg-white/10 backdrop-blur-lg rounded-3xl p-4 md:p-8 shadow-2xl">
                 <div className="relative">
                     <div className="overflow-hidden" ref={emblaRef}>

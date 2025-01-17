@@ -67,9 +67,8 @@ export default function TokenLinks() {
                             <Link
                                 key={link.name}
                                 href={link.href}
-                                className="group bg-white/5 hover:bg-white/15 rounded-xl transition-all duration-300 
-                       flex items-center gap-3 md:gap-4 p-3 md:p-4 backdrop-blur-sm border border-white/10 
-                       hover:border-white/20 h-[64px] md:h-[84px] w-full"
+                                className="flex items-center gap-4 bg-black/20 hover:bg-black/30 rounded-xl p-4 w-full
+                  transition-all duration-300 border border-white/10 hover:border-white/20"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
